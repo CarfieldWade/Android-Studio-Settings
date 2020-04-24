@@ -2,11 +2,11 @@
   <component name="DistinctDevice">
     <option name="androidVersion" value="10" />
     <option name="emui" value="10.1.0" />
-    <option name="model" value="ana-an00" />
-    <option name="phoneName" value="p 40" />
+    <option name="model" value="ebg-an10" />
+    <option name="phoneName" value="荣耀 30 pro+" />
     <option name="status" value="ready" />
-    <option name="total" value="8" />
-    <option name="valid" value="8" />
+    <option name="total" value="4" />
+    <option name="valid" value="4" />
     <option name="xres" value="1080" />
     <option name="yres" value="2340" />
   </component>
