@@ -1,0 +1,13 @@
+<application>
+  <component name="DistinctDevice">
+    <option name="androidVersion" value="10" />
+    <option name="emui" value="10.1.0" />
+    <option name="model" value="ana-an00" />
+    <option name="phoneName" value="p 40" />
+    <option name="status" value="ready" />
+    <option name="total" value="8" />
+    <option name="valid" value="8" />
+    <option name="xres" value="1080" />
+    <option name="yres" value="2340" />
+  </component>
+</application>
