@@ -34,7 +34,10 @@
         </PlaceSettings>
       </entry>
       <entry key="VcsLogView">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
+          <option name="IGNORE_POLICY" value="TRIM_WHITESPACES" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
